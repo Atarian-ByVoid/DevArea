@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;br.fepi.prova.model&apos; to &apos;prova&apos;" description="Rename resource &apos;br.fepi.prova.model&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/br.fepi.prova.model" name="prova" stamp="1663808050411" updateReferences="true"/>
+</session>

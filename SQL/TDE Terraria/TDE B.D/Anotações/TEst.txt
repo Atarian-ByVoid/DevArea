@@ -1,0 +1,33 @@
+
+/* Equipamentos e outros variados de sunset */
+CREATE TABLE Sunset (
+    id_character VARCHAR(100),
+    Blood_Tip VARCHAR(100),
+    Atk INT(2),
+    Def INT(5),
+    Pv INT(2),
+    Mp INT(1),
+    Money INT(3),
+    Class VARCHAR(100),
+    Cosmetics_1 VARCHAR(100),
+    Cosmetics_2 VARCHAR(100),
+    Cosmetics_3 VARCHAR(100),
+    Cosmetics_4 VARCHAR(100),
+    Cosmetics_5 VARCHAR(100),
+    Equipments_1 VARCHAR(100),
+    Equipments_2 VARCHAR(100),
+    Equipments_3 VARCHAR(100),
+    Equipments_4 VARCHAR(100),
+    Equipments_5 VARCHAR(100),
+    Armor_1 VARCHAR(100),
+    Armor_2 VARCHAR(100),
+    Armor_3 VARCHAR(100),
+    Weapons_1 VARCHAR(100),
+    Weapons_2 VARCHAR(100),
+    Weapons_3 VARCHAR(100),
+    Mount_Pets_Hook_1 VARCHAR(100),
+    Mount_Pets_Hook_2 VARCHAR(100),
+    Mount_Pets_Hook_3 VARCHAR(100),
+    Mount_Pets_Hook_4 VARCHAR(100),
+    PRIMARY KEY (id_character)
+);

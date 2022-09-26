@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <conio.h>
+
+int main(){
+
+int i;
+float notas [10]={22,30,14,6,4,23,21,24,14,35};
+
+printf("Valores");
+
+for(i=0; i<=9;i++){
+
+    printf("Nota[%d]= %.1f\n: ",i,notas[i]);
+}
+getch();
+return 0;
+}

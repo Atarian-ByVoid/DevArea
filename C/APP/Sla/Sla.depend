@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648839138 source:c:\users\cgome\onedrive\Área de trabalho\treino em c\app\sla\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
