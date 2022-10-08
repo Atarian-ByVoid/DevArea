@@ -6,4 +6,9 @@
     <fullyQualifiedTypeName name="br.fepi.sistemas.model.Matematica"/>
     <fullyQualifiedTypeName name="br.fepi.sistemas.model.Circulo"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="polimorfismo.Peixe"/>
+    <fullyQualifiedTypeName name="polimorfismo.Passaro"/>
+    <fullyQualifiedTypeName name="polimorfismo.Anfibio"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="polimorfismo.Animal"/>
 </qualifiedTypeNameHistroy>
