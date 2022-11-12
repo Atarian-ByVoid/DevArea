@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <conio.h>
+
+int main(){
+
+float notas [3]={1.4 ,2.3 ,5};
+
+printf(" Notas[0] =%.1f: ",notas[0]);
+printf(" Notas[1] =%.1f: ",notas[1]);
+printf(" Notas[2] =%.1f: ",notas[2]);
+
+
+getch();
+return 0;
+}

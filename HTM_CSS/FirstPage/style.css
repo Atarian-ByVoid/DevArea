@@ -1,0 +1,28 @@
+body{
+    margin:  12px;
+    padding: 12px;
+}
+
+h1{
+
+    border-bottom-width: 10px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-style: outset;
+    border-color: rgb(95, 27, 255);
+text-align: center;
+
+}
+
+h3{
+    text-align: center;
+
+padding: 30px;
+}
+
+img{
+
+    margin: auto;
+    display: block;
+}

@@ -5,14 +5,14 @@ import BulletController from "./BulletController.js";
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
 
-canvas.width = 600;
+canvas.width = 1519;
 canvas.height = 600;
 
 const background = new Image();
-background.src = "images/space.png";
+background.src = "images/spacePrime.jpg";
 
-const playerBulletController = new BulletController(canvas, 10, "red", true);
-const enemyBulletController = new BulletController(canvas, 4, "white", false);
+const playerBulletController = new BulletController(canvas, 10, "blue", true);
+const enemyBulletController = new BulletController(canvas, 4, "red", false);
 const enemyController = new EnemyController(
   canvas,
   enemyBulletController,
@@ -37,12 +37,14 @@ function game() {
 
 function displayGameOver() {
   if (isGameOver) {
+    
     let text = didWin ? "You Win" : "Game Over";
-    let textOffset = didWin ? 3.5 : 5;
+    let textOffset = didWin ? 2.5 : 3;
+  
 
     ctx.fillStyle = "white";
-    ctx.font = "70px Arial";
-    ctx.fillText(text, canvas.width / textOffset, canvas.height / 2);
+    ctx.font = "70px Magneto";
+    ctx.fillText(text, canvas.width / textOffset, canvas.height / 4);
   }
 }
 

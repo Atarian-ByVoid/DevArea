@@ -1,7 +1,0 @@
-Mr. Sandman com seus 200 de atk, 37 def, 400 mp e 400 de pv se prepara para batalha ele possui uma armadura completa de mythril, seu equipamento consiste com uma asa de morcego, algemas e uma ferradura, 
-também em sua posse carrega duas armas uma pistola rápida e sua espada gato.
-O seu inimigo é o olho de Cthulhu que possui 45 de atk, 23 de def e 4641 de pv. Cervos de Cthulhu o cercam tendo um pv de 8 e 12 de atk.
-
-Entidades: Mr.Sandman,Eye of Cthulhu,Servants of Cthulhu,Weapons,Armor,Equipament
-Relacionamentos : It Has,Have,FIGHT
-Atributos: Atk,Def,Pv,Mp,Cat Sword,Fast Pistol,Bat wing,Horseshoes,handcuffs,Mythril Greaves,Mythril Breastplate,Mythril helmet

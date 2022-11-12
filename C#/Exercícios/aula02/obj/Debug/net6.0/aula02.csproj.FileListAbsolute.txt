@@ -1,0 +1,30 @@
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\bin\Debug\net6.0\aula02.exe
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\bin\Debug\net6.0\aula02.deps.json
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\bin\Debug\net6.0\aula02.runtimeconfig.json
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\bin\Debug\net6.0\aula02.dll
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\bin\Debug\net6.0\ref\aula02.dll
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\bin\Debug\net6.0\aula02.pdb
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.csproj.AssemblyReference.cache
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.AssemblyInfoInputs.cache
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.AssemblyInfo.cs
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.csproj.CoreCompileInputs.cache
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.dll
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\ref\aula02.dll
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.pdb
+C:\Users\cgome\OneDrive\Área de Trabalho\C#\Aulas\aula02\obj\Debug\net6.0\aula02.genruntimeconfig.cache
+C:\C#\Aulas\aula02\bin\Debug\net6.0\aula02.exe
+C:\C#\Aulas\aula02\bin\Debug\net6.0\aula02.deps.json
+C:\C#\Aulas\aula02\bin\Debug\net6.0\aula02.runtimeconfig.json
+C:\C#\Aulas\aula02\bin\Debug\net6.0\aula02.dll
+C:\C#\Aulas\aula02\bin\Debug\net6.0\ref\aula02.dll
+C:\C#\Aulas\aula02\bin\Debug\net6.0\aula02.pdb
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.csproj.AssemblyReference.cache
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.AssemblyInfoInputs.cache
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.AssemblyInfo.cs
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.csproj.CoreCompileInputs.cache
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.dll
+C:\C#\Aulas\aula02\obj\Debug\net6.0\ref\aula02.dll
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.pdb
+C:\C#\Aulas\aula02\obj\Debug\net6.0\aula02.genruntimeconfig.cache

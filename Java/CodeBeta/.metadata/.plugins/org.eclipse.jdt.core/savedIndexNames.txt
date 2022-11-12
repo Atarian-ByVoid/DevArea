@@ -1,8 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Atarian\Desktop\Documents\DEV AREA\Java\PROGAMAS===OMEGA\.metadata\.plugins\org.eclipse.jdt.core
-1343858569.index
-1915071149.index
-3461126888.index
-2997397591.index
-2525604767.index
-1865797976.index
-4219279280.index
