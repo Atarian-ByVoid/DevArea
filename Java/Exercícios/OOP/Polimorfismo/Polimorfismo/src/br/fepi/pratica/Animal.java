@@ -3,7 +3,7 @@ package br.fepi.pratica;
 public class Animal {
 	
 	private String nome;
-	private String raça;
+	private String raca;
 	
 	public String getNome() {
 		return nome;
@@ -11,11 +11,11 @@ public class Animal {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-	public String getRaça() {
-		return raça;
+	public String getRaca() {
+		return raca;
 	}
-	public void setRaça(String raça) {
-		this.raça = raça;
+	public void setRaca(String raca) {
+		this.raca = raca;
 	}
 	
 	public Animal(){
